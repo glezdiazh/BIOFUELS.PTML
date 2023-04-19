@@ -6,12 +6,17 @@ Sustainable Gasoline Blends Design by AI-Driven Addition of Eco-friendly Chemica
 Authors and affiliations
 Harbil Bediaga a, Isabel Moreno-Benítezb, Sonia Arrasateb, José Luis Vilas-Vilelaa, Lucía Orbe c, Juan Pedro Gómez-Martín d, 
 Elías Unzueta c, and Humberto González-Díaz b,e,f,*
+
 a Department of Physical Chemistry, University of Basque Country UPV/EHU, 48940, Leioa, Spain.
-b Department of Organic and Inorganic Chemistry, 
-University of Basque Country UPV/EHU, 48940, Leioa, Spain.
+
+b Department of Organic and Inorganic Chemistry, University of Basque Country UPV/EHU, 48940, Leioa, Spain.
+
 c Petronor Innovación S.L., 48550, Muskiz, Spain.
+
 d Universidad Rey Juan Carlos (URJC), 28933, Madrid, Spain
+
 eBasque Center for Biophysics, CSIC-UPV/EHU, 48940, Leioa, Spain.
+
 fIKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain
 
 * Correspondence: humberto.gonzalezdiaz@ehu.eus
