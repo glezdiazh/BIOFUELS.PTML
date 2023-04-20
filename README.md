@@ -4,7 +4,7 @@ BIOFUELS.PTML: AI-Driven Design of Eco-friendly Gasoline or Biofuels blends
 Sustainable Gasoline Blends Design by AI-Driven Addition of Eco-friendly Chemical Compounds
 
 Authors and affiliations
-Harbil Bediaga a, Isabel Moreno-Benítezb, Sonia Arrasate b, José Luis Vilas-Vilelaa, Lucía Orbe c, Juan Pedro Gómez-Martín d, 
+Harbil Bediaga a, Isabel Moreno-Benítezb, Sonia Arrasate b, José Luis Vilas-Vilela a, Lucía Orbe c, Juan Pedro Gómez-Martín d, 
 Elías Unzueta c, and Humberto González-Díaz b,e,f,*
 
 a Department of Physical Chemistry, University of Basque Country UPV/EHU, 48940, Leioa, Spain.
