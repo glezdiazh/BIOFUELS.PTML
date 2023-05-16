@@ -24,6 +24,27 @@ fIKERBASQUE, Basque Foundation for Science, 48011, Bilbao, Spain
 # Abstract
 Designing sustainable fuel blends by adding eco-friendly pre-mixtures of chemical compounds (gasoline compounding) may help to reduce environmentalimpact. However, experimental testing of all possible pre-mixtures is time and resources consuming. Artificial Intelligence / Machine Learning (AI/ML) models may help to reduce experimentation cost but there are not publicly available datasets with detailed chemical composition of gasoline blends. Different IFPTML models were trained/validatedusing the Multivariate Linear Regression (MLR) compared to different Artificial Neural Networks (ANN) algorithms such Multi-Layer Perceptron (MLP), Deep Learning Network (DLN), Radial Basis Function (RBF).  The best IFPTML models found were able topredict the RON and MON values of these blends with R2 in the range 0.89 - 0.99 in training and validation series. We release here the C++ code of the ANN models trainined in this work. The new model may useful eco-friendly gasoline blends design with lower environmental impact. The data used to train/validate the models was released for public research purposes in the data repository Figshare: https://doi.org/10.6084/m9.figshare.21206174.v1
 
+# Supporting Information
+Supporting information files contain the following information:
+
+Supporting Information file SI01.xlsx
+Names, general formula, and code of 863 compounds usually find in byproducts of industrial processes 
+which can be interesting to repurpose/reuse in more eco-friendly fuel blends in order to reduce carbon fingerprint.
+https://github.com/glezdiazh/BIOFUELS.PTML/blob/main/Supporting%20Information%20file%20SI01.xlsx
+
+Supporting Information file SI02.xlsx
+Identifiers, RON, MON, PVR(kPa), and S values (Vm,k), Code	Property, input variables: function of reference f(vm,j)ref	 and PT operators:	
+∆Vm,25,j	∆Vm,29,j	∆Vm,30,j	∆Vm,32,j	∆Vm,36,j	along with calculated/predicted values f(vm,j)calc, and their	Residuals,
+Standard Predicted,	Standard Residual,	Std Error Predicted,	Mahananobis Distance,	Deleted Residual, and	CookDistance,
+for 1404 fuel blends used to train (Set = t) or validate (Set = v) the models.
+https://github.com/glezdiazh/BIOFUELS.PTML/blob/main/Supporting%20Information%20file%20SI02.xlsx
+
+Supporting Information file SI03.xlsx
+RON and MON values along with Names and composition of the 10 main components of 5000 fuel blends
+
+Additionally, the data is also released for free in data repository Figshare and indexed with doi number:
+https://doi.org/10.6084/m9.figshare.21206174.v1.
+
 # Authors contributions
 H.B.: Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Resources, 
 Software,Validation,Visualization,Writing original draft, Writing review and editing.
