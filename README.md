@@ -27,6 +27,15 @@ Designing sustainable fuel blends by adding eco-friendly pre-mixtures of chemica
 # Supporting Information
 Supporting information files contain the following information:
 
+Supporting information files ANN-MLP 1 4 12 12 1 1.c and ANN-MLP 1 4 15 8 1 1.c contain the code in c of the ANN models trained and validated in this paper.
+The code may be used to implement the model in other software ever following the licence specifications by Statsoft inc. specified inside these files.
+The code of the software used to generate the models is part of the STATISTICA package an is not propietary of the authors for release.
+Please in case you want to obtain similar ANN models use this package or other ANN algorithms package implemented in Phyton, WEKA, or other algorithms.
+In any case, we would like to point out that the linear models presented in the paper are simpler and have similar to better statistical performance than
+the ANN models released here. If your objective is using our models to predict new fuel blends we recommend the linear models instead of the ANN models released here.
+This linear models can be run in Excel or in any other script using the linear equations presented in the paper. You can reproduce the models using the data
+released at follows in the Supporting information files.
+
 Supporting Information file SI01.xlsx
 Names, general formula, and code of 863 compounds usually find in byproducts of industrial processes 
 which can be interesting to repurpose/reuse in more eco-friendly fuel blends in order to reduce carbon fingerprint.
